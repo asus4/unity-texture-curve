@@ -97,7 +97,7 @@ namespace TextureCurve
             }
         }
 
-        [MenuItem("Assets/Create/Texture Curve 2")]
+        [MenuItem("Assets/Create/Texture Curve")]
         public static void CreateNewAsset()
         {
             ProjectWindowUtil.CreateAssetWithContent("Texture Curve.texcurve", "");
