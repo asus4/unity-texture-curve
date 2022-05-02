@@ -1,5 +1,5 @@
 {
-    "name": "TextureCurve.Editor",
+    "name": "TextureCurve",
     "rootNamespace": "",
     "references": [
         "GUID:a32bd0bf836a04ee29ff4b69f46a0f3d"

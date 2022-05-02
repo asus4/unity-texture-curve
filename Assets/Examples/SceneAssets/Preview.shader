@@ -1,4 +1,4 @@
-﻿Shader "Hidden/Preview"
+﻿Shader "Custom/Preview"
 {
 	Properties
 	{

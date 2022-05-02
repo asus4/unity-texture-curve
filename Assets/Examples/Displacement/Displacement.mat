@@ -2,13 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Displacement
   m_Shader: {fileID: 4800000, guid: a43e8ddf10f078641ab620eda6e61a7a, type: 3}
-  m_ShaderKeywords: 
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -23,8 +25,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CurveTex:
-        m_Texture: {fileID: 28210322022380130, guid: 59f461b0d27848242b9f9ff18286159f,
-          type: 2}
+        m_Texture: {fileID: 7506314328700112305, guid: 5b8d20c5a5e454765b3de5bf95089b47,
+          type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -63,6 +65,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Amount: 4
     - _BumpScale: 1
@@ -86,3 +89,4 @@ Material:
     - _Amount: {r: 6, g: 1.5, b: 2, a: 0}
     - _Color: {r: 0.25, g: 0.25, b: 0.25, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
