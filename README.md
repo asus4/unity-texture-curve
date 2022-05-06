@@ -11,7 +11,7 @@ This technique can be used to animate all sort of values directly in shaders, it
 Install as Unity Package
 -------
 
-git URL from the Package Maneger UI:
+Add git URL from the Package Maneger UI:
 
 `https://github.com/asus4/unity-texture-curve.git?path=/Packages/TextureCurve#v1.1.0`
 
