@@ -13,7 +13,7 @@ Install as Unity Package
 
 Add git URL from the Package Maneger UI:
 
-`https://github.com/asus4/unity-texture-curve.git?path=/Packages/TextureCurve#v1.1.0`
+`https://github.com/asus4/unity-texture-curve.git?path=Packages/TextureCurve#v1.1.0`
 
 
 License
